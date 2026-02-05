@@ -1,11 +1,10 @@
-# UI-UX-design-for-DEPI-project
-<br>
+
 <h2>اسم المشروع
-<h3>موقع تفاعلي لتعليم الاطفال البرمجه
+<h3>Cooding for all
 <br>
   <br>
 <h2>وصغ المشروع
-<h3>موقع تفاعلي لتعليم الأطفال أساسيات البرمجة من خلال أنشطة وألعاب تعليمية ممتعة، يهدف إلى تنمية التفكير المنطقي والإبداعي لديهم بطريقة مبسطة ومناسبة لأعمارهم. كما يساعد المشروع على بناء مهارات تقنية مبكرة وتشجيعهم على استكشاف عالم التكنولوجيا بثقة.
+<h3>In today’s world, teaching children programming helps develop their imagination and strengthens their problem-solving skills. Coding is not just a technical skill; it allows kids to move from simply using technology to creating and shaping it. By learning how to communicate with computers, they build creativity, persistence, and the ability to turn their ideas into reality.
 <br>
 <br>
 <h2>اسماء اعضاء الفريق
